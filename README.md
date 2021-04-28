@@ -18,8 +18,8 @@ The following points were the objective of the project (The main intention was t
 ## Technical Aspect
 Training a machine learning model using scikit-learn.
 Building and hosting a Flask web app on Heroku.
-A user has to put details like Number of Pregnancies, Insulin Level, Age, BMI etc .
-Once it get all the fields information , the prediction is displyed on a new page .
+A user has to put details like Depature date, destination, source,.. .
+Once it get all the fields information , the prediction is displayed.
 
 ## Technologies Used
 - Python (Numpy, Pandas, seaborn, sklearn, ...)
